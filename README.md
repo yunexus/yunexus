@@ -1,4 +1,4 @@
-## Explore more www.baidu.com
+## Explore www.baidu.com
 **Hi, I'm Yu**👋, 
 ## About me
 - 🎓 211 高校人工智能专业硕士研究生
