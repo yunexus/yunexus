@@ -1,5 +1,5 @@
 ##
-**Hi, I'm Yu** 👋
+**Hi, I'm Yu**👋, more: www.baidu.com
 ## About me
 - 🎓 211 高校人工智能专业硕士研究生
 - 🔬 当前研究方向：**Agent（智能体）**
