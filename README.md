@@ -1,6 +1,6 @@
 ## About Me
 - 🎓 Master's student in Artificial Intelligence at a Project 211 university in China
-- 🔬 Current research: **Trustworthy AI for Healthcare**
+- 🔬 Current research: **Trustworthy Medical AI**
 - 🔐 Background in big data development
 - 🧠 Exploring deep learning, computer vision, machine learning, interdisciplinary AI, and AI agents
 
