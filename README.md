@@ -1,11 +1,12 @@
-## About me
-- 🎓 211 高校人工智能专业硕士研究生
-- 🔬 当前研究方向：**医疗可信AI**
-- 🔐 具备大数据开发相关知识背景
-- 🧠 正在持续关注深度学习、计算机视觉、机器学习、人工智能交叉、智能体领域
+## About Me
+- 🎓 Master's student in Artificial Intelligence at a Project 211 university in China
+- 🔬 Current research: **Trustworthy AI for Healthcare**
+- 🔐 Background in big data development
+- 🧠 Exploring deep learning, computer vision, machine learning, interdisciplinary AI, and AI agents
 
 ## Tech Stack
-Python、C++、JAVA、PyTorch、Git、Linux
+Python · C++ · Java · PyTorch · Git · Linux
+
 ##
 <sub>Stay curious. Build secure and trustworthy AI systems.</sub>
 </div>
